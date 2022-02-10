@@ -41,9 +41,9 @@ class App extends Component {
 
 
                 <div>
-                     <img src={Chick} style={{"width":"200px"}}/>
-                     <img src={Heart} style={{"width":"200px"}}/>
-                     <img src={Squirrel} style={{"width":"200px"}}/>
+                     <img src={Chick} style={{"width":"30vw"}}/>
+                     <img src={Heart} style={{"width":"30vw"}}/>
+                     <img src={Squirrel} style={{"width":"30vw"}}/>
                 </div>
             </div>
         );
