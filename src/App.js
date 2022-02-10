@@ -45,8 +45,6 @@ class App extends Component {
                      <img src={Heart} style={{"width":"30vw"}}/>
                      <img src={Squirrel} style={{"width":"30vw"}}/>
                 </div>
-
-                <h2>sugi pl coae</h2>
             </div>
         );
     }
